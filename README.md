@@ -29,3 +29,9 @@ Vaultify impolements a "vault" methodology.
     ***All the server knows is the user's email and authenticaiton key.***
     
     Therefore, even in the case of the server being hacked, only the user themselves will be able to get into the vault.
+
+# Tech Stack
+[![Tech Stack](https://skillicons.dev/icons?i=rust,rocket)](https://skillicons.dev)
+
+[Rust](https://www.rust-lang.org/) - Primary Language <br>
+[Rocket.rs](https://rocket.rs/) - API
