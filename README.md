@@ -34,4 +34,5 @@ Vaultify impolements a "vault" methodology.
 [![Tech Stack](https://skillicons.dev/icons?i=rust,rocket)](https://skillicons.dev)
 
 [Rust](https://www.rust-lang.org/) - Primary Language <br>
-[Rocket.rs](https://rocket.rs/) - API
+[Rocket.rs](https://rocket.rs/) - API <br>
+[Diesel](https://diesel.rs/) - Rust ORM
