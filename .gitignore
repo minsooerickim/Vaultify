@@ -1,1 +1,9 @@
 /target
+
+# db
+vaultify.db
+*.db-shm
+*.db-wal
+
+# env
+.env
