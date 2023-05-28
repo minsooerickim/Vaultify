@@ -7,3 +7,6 @@ vaultify.db
 
 # env
 .env
+
+# logging
+*.log
